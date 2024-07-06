@@ -14,7 +14,7 @@ Applied Learning: Uncover actionable insights that retailers could use to enhanc
 
 # Questions to Explore:
 
-How does customer age and gender influence their purchasing behavior?
+How does customer age and gender influence their purchasing behavior?\n
 Are there discernible patterns in sales across different time periods?
 Which product categories hold the highest appeal among customers?
 What are the relationships between age, spending, and product preferences?
