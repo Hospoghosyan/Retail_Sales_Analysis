@@ -11,6 +11,7 @@ Realistic Representation: Though synthetic, the dataset mirrors real-world retai
 Diverse Insights: From demographic insights to product preferences, the dataset offers a broad spectrum of factors to investigate.
 Hypothesis Generation: As you perform EDA, you'll have the chance to formulate hypotheses that can guide further analysis and experimentation.
 Applied Learning: Uncover actionable insights that retailers could use to enhance their strategies and customer experiences.
+
 # Questions to Explore:
 
 How does customer age and gender influence their purchasing behavior?
