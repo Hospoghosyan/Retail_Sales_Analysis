@@ -27,7 +27,7 @@ What insights can be gleaned from the distribution of product prices within each
 2. [Data Understanding](#data-understanding)
 3. [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
 4. [Data Visualization](#data-visualization)
-5. [Conclusion](#conclusion)
+
 
 ## Introduction
 Retail sales data analysis can reveal valuable insights into customer behavior, sales trends, and product performance. This project analyzes retail sales data to answer critical business questions and identify patterns that can drive strategic decisions.
